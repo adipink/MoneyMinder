@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>23989099036-3dk15pao4r9g0a9lsqgi3l4lqttjrcvn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.23989099036-3dk15pao4r9g0a9lsqgi3l4lqttjrcvn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAuxgf-ALwMxb8A55taGV6nYHUwWcVxDlg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>23989099036</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>adipinker.ExpenseTrack</string>
+	<key>PROJECT_ID</key>
+	<string>expensetrack-83e1c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>expensetrack-83e1c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:23989099036:ios:ba388f244a264449ffddd9</string>
+</dict>
+</plist>
