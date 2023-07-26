@@ -37,6 +37,7 @@
 		AD6D5DED2A65656B003A170F /* ProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6D5DEC2A65656B003A170F /* ProfileViewModel.swift */; };
 		AD6D5DEF2A656FE4003A170F /* NewExpenseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6D5DEE2A656FE4003A170F /* NewExpenseView.swift */; };
 		AD6D5DF12A65BF7D003A170F /* ExpenseCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6D5DF02A65BF7D003A170F /* ExpenseCard.swift */; };
+		AD6D5DF52A715C69003A170F /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = AD6D5DF42A715C69003A170F /* FirebaseAuth */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -104,6 +105,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD6D5DF52A715C69003A170F /* FirebaseAuth in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +282,9 @@
 				AD6D5D842A56BB1C003A170F /* PBXTargetDependency */,
 			);
 			name = ExpenseTrackTests;
+			packageProductDependencies = (
+				AD6D5DF42A715C69003A170F /* FirebaseAuth */,
+			);
 			productName = ExpenseTrackTests;
 			productReference = AD6D5D822A56BB1C003A170F /* ExpenseTrackTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
@@ -756,6 +761,11 @@
 			isa = XCSwiftPackageProductDependency;
 			package = AD6D5DA12A56CE94003A170F /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseFirestoreSwift;
+		};
+		AD6D5DF42A715C69003A170F /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = AD6D5DA12A56CE94003A170F /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

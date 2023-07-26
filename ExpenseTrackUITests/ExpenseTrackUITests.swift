@@ -2,7 +2,7 @@
 //  ExpenseTrackUITests.swift
 //  ExpenseTrackUITests
 //
-//  Created by אוראל חדד on 06/07/2023.
+//  Created by Kristina & Adi
 //
 
 import XCTest
