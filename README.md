@@ -38,3 +38,7 @@ This information can help users monitor their spending, analyze their income sou
 
 <img width="250" alt="profile" src="https://github.com/adipink/WarCardGame/assets/64596451/cb5eb9ec-4911-4b6e-9265-48c0b0729041">
 
+
+#### Video demonstration:
+https://drive.google.com/file/d/1Ku_Fbs_hTD8JAPk0_HZMCIbjhmL3ST7u/view?usp=drive_link
+
